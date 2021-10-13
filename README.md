@@ -12,7 +12,7 @@ Back|Back
 Forward|Forward
 Middle (Mousewheel)|Middle Mouse Button
 Extra (under Mousewheel)|Switch DPI (1000,2000,3000,4000)|Brightness Up|Brightness Down|Volume Down|Volume Up
-Thumb|Switch Application|Window Maximize|Minimize Window|Maximize Left|Maximize Right
+Thumb|Switch Application|Maximize Window|Minimize Window|Maximize Left|Maximize Right
 Thumb Wheel||Zoom In|Zoom Out
 ## CIDS
 
