@@ -1,5 +1,5 @@
 # MX Master 3 with Gnome on PopOs using logiops
-This is a sample config for remapping buttons on a 
+This is my personal config for remapping buttons on a 
 [Logitech MX Master 3](https://www.logitech.com/en-us/product/mx-master-3.910-005620.html?page=mx-for-coding) using [PixlOne/logiops](https://github.com/PixlOne/logiops) and [ArchWiki/Logitech MX Master](https://wiki.archlinux.org/title/Logitech_MX_Master).
 
 ## Gestures
