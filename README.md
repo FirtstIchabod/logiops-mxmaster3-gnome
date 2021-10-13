@@ -1,4 +1,4 @@
-# MX Master 3 with Gnome using logiops
+# MX Master 3 with Gnome and PopOs using logiops
 This is a sample config for remapping buttons on a 
 [Logitech MX Master 3](https://www.logitech.com/en-us/product/mx-master-3.910-005620.html?page=mx-for-coding) using [PixlOne/logiops](https://github.com/PixlOne/logiops).
 
@@ -11,7 +11,7 @@ Key | Press | Gesture Up | Gesture Down | Gesture Left | Gesture Right
 Back|Back
 Forward|Forward
 Middle (Mousewheel)|Minimize Window|Window Maximize|Undo Maximize|Toggle Window Tiled Left|Toggle Window Tiled Right
-Extra (under Mousewheel)|Switch DPI (1000,2000,3000,4000)|Volume Up|Volume Down|Brightness Down|Brightness Up
+Extra (under Mousewheel)|Switch DPI (1000,2000,3000,4000)|Brightness Up|Brightness Down|Volume Down|Volume Up
 Thumb|Workspace Window Overview|Workspace Up|Workspace Down|Application Overview
 
 ## CIDS
