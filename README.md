@@ -1,6 +1,6 @@
-# MX Master 3 with Gnome and PopOs using logiops
+# MX Master 3 with Gnome on PopOs using logiops
 This is a sample config for remapping buttons on a 
-[Logitech MX Master 3](https://www.logitech.com/en-us/product/mx-master-3.910-005620.html?page=mx-for-coding) using [PixlOne/logiops](https://github.com/PixlOne/logiops).
+[Logitech MX Master 3](https://www.logitech.com/en-us/product/mx-master-3.910-005620.html?page=mx-for-coding) using [PixlOne/logiops](https://github.com/PixlOne/logiops) and [Linux/input-event-codes.h](https://github.com/torvalds/linux/blob/master/include/uapi/linux/input-event-codes.h).
 
 ## Gestures
 The MX Master allows to bind gestures to all buttons. To use them just press the button and move the mouse in the desired direction. While using gestures the cursor does not move
@@ -10,10 +10,10 @@ Key | Press | Gesture Up | Gesture Down | Gesture Left | Gesture Right
 ----|-------|------------|--------------|---------------|-------------
 Back|Back
 Forward|Forward
-Middle (Mousewheel)|Minimize Window|Window Maximize|Undo Maximize|Toggle Window Tiled Left|Toggle Window Tiled Right
+Middle (Mousewheel)|Middle Mouse Button
 Extra (under Mousewheel)|Switch DPI (1000,2000,3000,4000)|Brightness Up|Brightness Down|Volume Down|Volume Up
-Thumb|Workspace Window Overview|Workspace Up|Workspace Down|Application Overview
-
+Thumb|Switch Application|Window Maximize|Minimize Window|Maximize Left|Maximize Right
+Thumb Wheel||Zoom In|Zoom Out
 ## CIDS
 
 CID|Mouse Key
