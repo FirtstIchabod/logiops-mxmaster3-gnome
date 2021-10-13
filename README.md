@@ -1,6 +1,6 @@
 # MX Master 3 with Gnome on PopOs using logiops
 This is a sample config for remapping buttons on a 
-[Logitech MX Master 3](https://www.logitech.com/en-us/product/mx-master-3.910-005620.html?page=mx-for-coding) using [PixlOne/logiops](https://github.com/PixlOne/logiops) and [Linux/input-event-codes.h](https://github.com/torvalds/linux/blob/master/include/uapi/linux/input-event-codes.h).
+[Logitech MX Master 3](https://www.logitech.com/en-us/product/mx-master-3.910-005620.html?page=mx-for-coding) using [PixlOne/logiops](https://github.com/PixlOne/logiops) and [ArchWiki/Logitech MX Master](https://wiki.archlinux.org/title/Logitech_MX_Master).
 
 ## Gestures
 The MX Master allows to bind gestures to all buttons. To use them just press the button and move the mouse in the desired direction. While using gestures the cursor does not move
